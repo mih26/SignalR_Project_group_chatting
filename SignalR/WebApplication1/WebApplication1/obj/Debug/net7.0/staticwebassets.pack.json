@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\signalr.js"
+    },
+    {
+      "Id": "F:\\Evidence\\SignalR\\WebApplication1\\WebApplication1\\wwwroot\\libs\\signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

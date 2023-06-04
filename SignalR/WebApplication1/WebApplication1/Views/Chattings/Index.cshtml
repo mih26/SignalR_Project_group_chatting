@@ -1,0 +1,122 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row pt-3" id="panel1" style="display:none">
+    <div class="col-3">
+    </div>
+    <div class="col-6">
+        <div class="input-group mb-3">
+            <input class="form-control" id="username" placeholder="User Name" />
+            <button type="button" class="btn btn-info" id="connect">Connect</button>
+        </div>
+
+    </div>
+    <div class="col-3"></div>
+</div>
+<div class="row pt-3" id="panel2" style="display:none">
+    <div class="col-2">
+        <span id="displayname"></span>
+        [<span id="currentgroup"></span>]
+    </div>
+    <div class="col-8">
+        <div class="row">
+            <div class="col-12">
+                <div class="input-group mb-3">
+                    <input class="form-control" id="groupname" placeholder="Name of Group" />
+                    <button type="button" class="btn btn-success" id="create">Create</button>
+                </div>
+            </div>
+            <div class="col-12">
+
+                <div class="input-group mb-3">
+                    <select class="form-select" id="groups">
+                    </select>
+                    <button type="button" class="btn btn-danger" id="join">Join</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-2"></div>
+</div>
+<div class="row pt-3" id="panel3" style="display:none">
+    <div class="col-3">
+        <h4>Users</h4>
+        <ul id="users">
+        </ul>
+    </div>
+    <div class="col-9">
+        <div class="row">
+            <div class="col-12">
+                <div class="input-group mb-3">
+                    <input class="form-control" id="msg" placeholder="message" />
+                    <button type="button" class="btn btn-info" id="send">send</button>
+                </div>
+            </div>
+            <div class="col-12">
+                <h4>Messages</h4>
+                <ul id="chats">
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+@section scripts {
+    <script>
+        var displayName, currentGroup;
+        var con = new signalR.HubConnectionBuilder().withUrl("/chat").build();
+        con.on("connected", msg => {
+            console.log(msg);
+        });
+        con.on("added", msg => {
+            console.log(msg);
+            $("#panel1").hide();
+            $("#panel2").show();
+        });
+        con.on("grouplist", groups => {
+            $("#groups").html('');
+            groups.forEach(g => {
+                $("#groups").append(`<option value='${g}'>${g}</option>`)
+            })
+        });
+        con.on("userlist", users => {
+            $("#panel3").show();
+            $("#users").html('');
+            users.forEach(u => {
+                $("#users").append(`<li value='${u}'>${u}</li>`)
+            });
+            $("#displayname").html(displayName);
+            $("#currentgroup").html(currentGroup);
+        });
+        con.on("recieveMessage", (u, m) => {
+            $("#chats").append(`<li>From ${u}: ${m}</li>`);
+        });
+        con.start().then(() => {
+            $("#panel1").slideDown(500);
+            $("#connect").click(() => {
+                con.invoke("AddMe", $("#username").val());
+                displayName = $("#username").val();
+            });
+            $("#create").click(() => {
+                con.invoke("Create", $("#groupname").val());
+
+                $("#groupname").val('');
+            });
+            $("#join").click(() => {
+                con.invoke("Join", $("#groups").val());
+                currentGroup = $("#groups").val();
+            });
+            $("#send").click(() => {
+                con.invoke("Send", currentGroup, $("#msg").val());
+                $("#msg").val('');
+            });
+        })
+            .catch(err => console.log(err))
+    </script>
+}
+
+
+
